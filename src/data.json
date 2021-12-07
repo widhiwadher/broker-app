@@ -1,0 +1,92 @@
+{
+    "states": [
+        {
+            "name": "Odisha",
+            "Statcode" : "OD"
+        },
+        {
+            "name": "karnataka",
+            "Statcode" : "KA"
+        },
+        {
+            "name": "Bihar",
+            "Statcode" : "BI"
+        },
+        {
+            "name": "Ap",
+            "Statcode" : "AP"
+        },
+        {
+            "name": "Maharashtra",
+            "Statcode" : "MH"
+        }
+    ],
+
+    "cities": [
+        {
+            "name": "Sambalpur",
+            "cityCode": "SBP",
+            "Statcode": "OD"
+        },
+
+        {
+            "name": "Bangalore",
+            "cityCode": "BLR",
+            "Statcode": "KA"
+        },
+        {
+            "name": "Patna",
+            "cityCode": "PT",
+            "Statcode": "BI"
+        },
+        {
+            "name": "Mumbai",
+            "cityCode": "MU",
+            "Statcode": "MH"
+        }
+    ],
+
+    "localities" : [
+        {
+            "name": "Burla",
+            "cityCode": "SBP"
+        },
+
+        {
+            "name": "Hirakud",
+            "cityCode": "SBP"
+        },
+        {
+            "name": "Halasuru",
+            "cityCode": "BLR"
+        },
+
+        {
+            "name": "Mg road",
+            "cityCode": "BLR"
+        },
+
+        {
+            "name": "Patnapur",
+            "cityCode": "PT"
+        },
+
+        {
+            "name": "patnanagar",
+            "cityCode": "PT"
+        },
+
+        {
+            "name": "Kalyan",
+            "cityCode": "MU"
+        },
+
+        {
+            "name": "Dharavi",
+            "cityCode": "MU"
+        }
+
+    ]
+
+
+}
